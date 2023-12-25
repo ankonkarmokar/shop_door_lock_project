@@ -4,6 +4,10 @@
 
 This project is a simple door lock system designed for a shop, utilizing an ultrasonic sensor and Arduino Uno. The system detects the proximity of an individual using the ultrasonic sensor and controls a servo motor to lock or unlock the door. This README provides detailed information on the project components, setup, and usage.
 
+### Platform Setup
+- Proteus 8 Professional
+- Arduino IDE 2.2.1
+
 ## Components
 
 1. **Arduino Uno**: The main microcontroller that processes sensor data and controls the locking mechanism.
