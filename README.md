@@ -12,3 +12,4 @@ This project is a simple door lock system designed for a shop, utilizing an ultr
 4. **Jumper Wires**: For connecting components on the breadboard.
 5. **Breadboard**: Provides a platform for prototyping and connecting electronic components.
 6. **Power Supply**: Supplies power to the Arduino and servo motor.
+7. **LCD (16x2 or other configuration)**: The main display unit.
